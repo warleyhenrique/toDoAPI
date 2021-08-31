@@ -1,5 +1,5 @@
 ## Teste I
-## Curso Ignite Rocketseat - Trilha NodeJS - Chapter II
+## Curso Ignite Rocketseat - Trilha NodeJS - Chapter I
 
 ## Rotas da aplicação
 
